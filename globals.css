@@ -1,0 +1,14 @@
+@import "tailwindcss";
+body{
+    margin: 0;
+    padding: 0;
+}
+:root {
+  --cm-bg-light: #ffffff;
+  --cm-bg-dark:  #1e1e2e;
+  --cm-text-light: #333333;
+  --cm-text-dark:  #dddddd;
+  --cm-code-bg:   #f5f5f5;
+  --cm-code-dark-bg: #2e2e3a;
+  --cm-cursor:    #ff5722;
+}
